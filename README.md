@@ -21,3 +21,4 @@ The dashboard provide insights on:
 Insights:
 - the most profitable revenu for the business was generated in the Beverages, Dairy Products.
 - the profitability and sales of business decreased between 2014 and 2015.
+- the most profitable counteries were germany, barzil and Austria.
